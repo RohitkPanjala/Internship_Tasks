@@ -1,4 +1,4 @@
-# Problem 11: Given a string s, check if the string contains: alphanumeric characters, alphabetical characters, digits, lowercase characters, and uppercase characters. Print True or False for each across 5 separate lines.
+# Problem 5: Given a string s, check if the string contains: alphanumeric characters, alphabetical characters, digits, lowercase characters, and uppercase characters. Print True or False for each across 5 separate lines.
 # HackerRank Link: 
 # hhttps://www.hackerrank.com/challenges/string-validators/problem
 

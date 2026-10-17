@@ -1,4 +1,4 @@
-# Problem 6: Given the participants' score sheet for your University Sports Day, store them in a list and find the score of the runner-up (the second highest score).
+# Problem 1: Given the participants' score sheet for your University Sports Day, store them in a list and find the score of the runner-up (the second highest score).
 # HackerRank Link: 
 # https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
 

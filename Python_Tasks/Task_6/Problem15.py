@@ -1,0 +1,14 @@
+# Problem 15 - Set .difference() Operation
+# HackerRank Link -
+# https://www.hackerrank.com/challenges/py-set-difference-operation/problem
+
+
+n = int(input())
+english = set(map(int, input().split()))
+
+b = int(input())
+french = set(map(int, input().split()))
+
+english_only = english.difference(french)
+
+print(len(english_only))
